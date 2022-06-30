@@ -1,4 +1,4 @@
-package com.alimuntung.a10119260uts;
+package com.alimuntung.a10119260sensormaps;
 
 import android.content.Intent;
 import android.os.Handler;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.alimuntung.a10119260uts.Presenter.AppActivity;
+import com.alimuntung.a10119260sensormaps.Presenter.AppActivity;
 // Ikbar Laudza Alviansyah
 // IF-7
 // 10119260

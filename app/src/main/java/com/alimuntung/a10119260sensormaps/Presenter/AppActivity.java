@@ -1,8 +1,8 @@
-package com.alimuntung.a10119260uts.Presenter;
+package com.alimuntung.a10119260sensormaps.Presenter;
 
 import android.os.Bundle;
 
-import com.alimuntung.a10119260uts.R;
+import com.alimuntung.a10119260sensormaps.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,7 +11,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.alimuntung.a10119260uts.databinding.ActivityAppBinding;
+import com.alimuntung.a10119260sensormaps.databinding.ActivityAppBinding;
 // Ikbar Laudza Alviansyah
 // IF-7
 // 10119260
@@ -31,7 +31,7 @@ public class AppActivity extends AppCompatActivity {
 
         BottomNavigationView navView = findViewById(R.id.nav_view);
         AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.navigation_catatan, R.id.navigation_profil, R.id.navigation_info)
+                R.id.navigation_maps, R.id.navigation_profil, R.id.navigation_info)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_app);
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);

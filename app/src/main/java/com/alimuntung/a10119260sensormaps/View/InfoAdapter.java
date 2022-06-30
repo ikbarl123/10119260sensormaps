@@ -1,11 +1,11 @@
-package com.alimuntung.a10119260uts.View;
+package com.alimuntung.a10119260sensormaps.View;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.alimuntung.a10119260uts.Presenter.info.SlideInfoFragment;
+import com.alimuntung.a10119260sensormaps.Presenter.info.SlideInfoFragment;
 // Ikbar Laudza Alviansyah
 // IF-7
 // 10119260

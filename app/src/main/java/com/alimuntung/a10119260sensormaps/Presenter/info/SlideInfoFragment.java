@@ -1,4 +1,4 @@
-package com.alimuntung.a10119260uts.Presenter.info;
+package com.alimuntung.a10119260sensormaps.Presenter.info;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.alimuntung.a10119260uts.R;
+import com.alimuntung.a10119260sensormaps.R;
 
 // Ikbar Laudza Alviansyah
 // IF-7

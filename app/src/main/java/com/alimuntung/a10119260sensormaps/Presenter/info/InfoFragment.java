@@ -1,20 +1,18 @@
-package com.alimuntung.a10119260uts.Presenter.info;
+package com.alimuntung.a10119260sensormaps.Presenter.info;
 
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentActivity;
-import androidx.viewpager2.adapter.FragmentStateAdapter;
 import androidx.viewpager2.widget.ViewPager2;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.alimuntung.a10119260uts.R;
-import com.alimuntung.a10119260uts.View.InfoAdapter;
+import com.alimuntung.a10119260sensormaps.R;
+import com.alimuntung.a10119260sensormaps.View.InfoAdapter;
 
 // Ikbar Laudza Alviansyah
 // IF-7

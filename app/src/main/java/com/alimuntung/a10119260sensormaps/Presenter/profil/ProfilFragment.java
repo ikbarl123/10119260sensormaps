@@ -1,4 +1,4 @@
-package com.alimuntung.a10119260uts.Presenter.profil;
+package com.alimuntung.a10119260sensormaps.Presenter.profil;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.alimuntung.a10119260uts.R;
+import com.alimuntung.a10119260sensormaps.R;
 
 /**
  * A simple {@link Fragment} subclass.

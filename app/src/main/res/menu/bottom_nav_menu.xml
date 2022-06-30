@@ -8,9 +8,9 @@
         android:title="@string/profil"/>
 
     <item
-        android:id="@+id/navigation_catatan"
+        android:id="@+id/navigation_maps"
         android:icon="@drawable/ic_baseline_menu_book_24"
-        android:title="@string/catatan"/>
+        android:title="@string/maps"/>
 
 
     <item
