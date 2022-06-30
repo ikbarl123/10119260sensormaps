@@ -6,20 +6,20 @@
     app:startDestination="@+id/navigation_profil">
 
     <fragment
-        android:id="@+id/navigation_catatan"
-        android:name="com.alimuntung.a10119260uts.Presenter.catatan.CatatanFragment"
+        android:id="@+id/navigation_maps"
+        android:name="com.alimuntung.a10119260sensormaps.Presenter.Maps.MapsFragment"
         android:label="@string/title_home"
-        tools:layout="@layout/fragment_catatan" />
+        tools:layout="@layout/fragment_maps" />
 
     <fragment
         android:id="@+id/navigation_profil"
-        android:name="com.alimuntung.a10119260uts.Presenter.profil.ProfilFragment"
+        android:name="com.alimuntung.a10119260sensormaps.Presenter.profil.ProfilFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_profil"/>
 
     <fragment
         android:id="@+id/navigation_info"
-        android:name="com.alimuntung.a10119260uts.Presenter.info.InfoFragment"
+        android:name="com.alimuntung.a10119260sensormaps.Presenter.info.InfoFragment"
         android:label="@string/fragment_info"
         tools:layout="@layout/fragment_info" />
 

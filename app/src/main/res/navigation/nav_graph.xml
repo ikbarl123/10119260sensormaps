@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.alimuntung.a10119260uts.FirstFragment"
+        android:name="com.alimuntung.a10119260sensormaps.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.alimuntung.a10119260uts.SecondFragment"
+        android:name="com.alimuntung.a10119260sensormaps.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 
