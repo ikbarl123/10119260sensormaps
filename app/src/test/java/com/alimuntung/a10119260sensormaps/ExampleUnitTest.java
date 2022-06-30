@@ -1,4 +1,4 @@
-package com.alimuntung.a10119260uts;
+package com.alimuntung.a10119260sensormaps;
 
 import org.junit.Test;
 

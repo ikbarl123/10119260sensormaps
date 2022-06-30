@@ -1,4 +1,4 @@
-package com.alimuntung.a10119260uts;
+package com.alimuntung.a10119260sensormaps;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.alimuntung.a10119260uts", appContext.getPackageName());
+        assertEquals("com.alimuntung.a10119260sensormaps", appContext.getPackageName());
     }
 }
