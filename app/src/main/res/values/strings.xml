@@ -17,7 +17,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="infosatu">Info Satu</string>
     <string name="infodua">Info Dua</string>
-    <string name="Judul">APLIKASI CATATAN ALIMUNTUNG</string>
+    <string name="Judul">APLIKASI Cari Maps</string>
     <string name="fragment_info">Info Aplikasi</string>
     <!--Profil-->
     <string name="nama">Ikbar Laudza Alviansyah</string>
@@ -30,6 +30,7 @@
     <string name="catatan">Catatan</string>
     <string name="kategori">kategori</string>
     <string name="judul_catatan">Judul Catatan</string>
-    <string name="aplikasi_canbuk_merupakan_aplikasi_untuk_melakukan_catatan_harian">Aplikasi Canbuk Merupakan Aplikasi untuk melakukan catatan harian</string>
+    <string name="aplikasi_canbuk_merupakan_aplikasi_untuk_melakukan_catatan_harian">Aplikasi Canbuk Merupakan Aplikasi untuk melakukan pencarian restorant</string>
+    <string name="maps">Maps</string>
     <!---->
 </resources>
