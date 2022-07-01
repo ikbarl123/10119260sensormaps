@@ -1,5 +1,7 @@
 package com.alimuntung.a10119260sensormaps.Model;
-
+// Ikbar Laudza Alviansyah
+// IF-7
+// 10119260
 public class RestaurantMarker {
     private double lat;
     private double lng;
